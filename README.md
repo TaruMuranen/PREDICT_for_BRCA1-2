@@ -1,5 +1,6 @@
 # PREDICT_for_BRCA1-2
 Scripts used in the manuscript Muranen et al.
+The scripts are provided for the sake of open science. They do not form an executable software.
 
 ## PREDICT validity for prognosis of breast cancer patients with pathogenic BRCA1/2 variants 
 

@@ -2,6 +2,8 @@
 Scripts used in the manuscript Muranen et al.
 The scripts are provided for the sake of open science. They do not form an executable software.
 
+A preprint is available here: https://www.researchsquare.com/article/rs-2269143/v1
+
 ## PREDICT validity for prognosis of breast cancer patients with pathogenic BRCA1/2 variants 
 
 We assessed the PREDICT v 2.2 for prognosis of breast cancer patients with pathogenic germline BRCA1 and BRCA2 variants, using follow-up data from 5453 BRCA1/2 carriers from the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA) and the Breast Cancer Association Consortium (BCAC). 
